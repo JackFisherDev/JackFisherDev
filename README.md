@@ -42,6 +42,10 @@ I'm currently learning :books: Solidity, Web3 and 3D animations stuff. And alway
   <a href="https://twitter.com/jack_fisher_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  <a href="https://codepen.io/JackFisher" target="_blank">
+    <img src="https://img.shields.io/badge/Codepen-blue?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+  </a>
 </div>
 
 ---
