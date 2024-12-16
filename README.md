@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm Jack (originaly in :ukraine: Yevhen :wink:), a well-versed **Frontend Engineer** with 6+ years of expertise in building modern web applications using React and Vue. Experienced in Agile methodology, international team collaboration, and leading high-traffic product development. Passionate about delivering impactful, user-friendly software.
+I'm Jack (originaly in :ukraine: Yevhen :wink:), a well-versed **Frontend Engineer** with 8+ years of expertise in building modern web applications using React and Vue. Experienced in Agile methodology, international team collaboration, and leading high-traffic product development. Passionate about delivering impactful, user-friendly software.
 
 I'm currently learning :books: Solidity, Web3 and 3D animations stuff. And always open to exciting collaborations :call_me_hand:; I'll be happy to bring my skills and experience to help drive the success of your project :rocket:.
 
